@@ -86,6 +86,7 @@ while True:
 ## Output:
 ## Server:
 <img width="546" height="156" alt="Screenshot 2025-11-08 201047" src="https://github.com/user-attachments/assets/2dca5900-2ba0-4c97-824c-6235c2fd9297" />
+
 ## Client:
 <img width="541" height="130" alt="Screenshot 2025-11-08 201151" src="https://github.com/user-attachments/assets/744b523c-7e4f-4595-a5c5-d2d696edc548" />
 
